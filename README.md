@@ -8,7 +8,7 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently in study.
-- Learning more about and studying : ReactJs , ReactNative
+- Learning more about and studying : ReactJs , ReactNative &nd NodeJs
 - 💬 Ask me about anything , Would love to answer them.
 - ⚡ Check out my [website](https://cody4code.ga)
 
@@ -20,6 +20,7 @@
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/353498/bootstrap.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/354259/react.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="30" width="30" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/354238/python.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
