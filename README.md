@@ -1,6 +1,6 @@
 # Hi! I'm Fekerine 
 
-<img  width="200" src='https://myoctocat.com/assets/images/base-octocat.svg' />
+<img  width="200" src='https://raw.githubusercontent.com/Fekerineamar/Fekerineamar/f37544194b4233541c4dbe6bf4c8513b4d242473/logox128.svg' />
 
 ## Web Developer And Mobile Application, I love getting involved in Competitive Programming and Problem Solving.❤
 
@@ -16,8 +16,8 @@
 
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/349402/html5.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/303263/css3-logo.svg"></code>
-<code><img height="30" width="30" src="https://www.svgrepo.com/show/353925/javascript.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/353498/bootstrap.svg"></code>
+<code><img height="30" width="30" src="https://www.svgrepo.com/show/353925/javascript.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/354259/react.svg"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="30" width="30" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"></code>
