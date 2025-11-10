@@ -10,7 +10,7 @@
 - 🔭 I’m currently in study.
 - Learning more about and studying : ReactJs , ReactNative &nd NodeJs
 - 💬 Ask me about anything , Would love to answer them.
-- ⚡ Check out my [portfolio](https://fekerineamar.github.io/me/)
+- ⚡ Check out my [portfolio](https://fekerineamar.vercel.app/)
 
 **Languages and Tools:**
 
@@ -30,4 +30,4 @@
 <br>
   [![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/general.fekerine)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)](https://github.com/FekerineAmar/)
-  [![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://[cody4code](https://fekerineamar.github.io/me/)/)
+  [![Website](https://img.shields.io/badge/-Website-181717?style=for-the-badge&logo=Internet-Archive&logoColor=eeffff)](https://fekerineamar.vercel.app/)
